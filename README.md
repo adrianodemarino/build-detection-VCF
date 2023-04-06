@@ -11,9 +11,16 @@ import pandas as pd
 import argparse
 ```
 
-# Run
+# Usage
 
 ```python
 python3 build_detection_VCF.py <file_name.vcf.gz>
 ```
 
+# Output
+
+```python
+return Genome build: hg19/GRCh37 for build 37
+return hg38/GRCh38 for build 38
+return 0 for error or no detection
+```
