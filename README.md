@@ -14,6 +14,7 @@ import argparse
 # Usage
 
 ```python
+tabix <file_name.vcf.gz>
 python3 build_detection_VCF.py <file_name.vcf.gz>
 ```
 
