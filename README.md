@@ -20,7 +20,7 @@ python3 build_detection_VCF.py <file_name.vcf.gz>
 
 ## Output
 
-The script returns:
+The script returns one of the following cases:
 
 |Message|Genome Build|
 |:-:|:-:|
