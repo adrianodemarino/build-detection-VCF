@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+# Author: Adriano De Marino, PhD
+# Contact: adriano.demarino@gmail.com
+
 import os 
-import logging
 from cyvcf2 import VCF
 import pandas as pd
-import numpy as np
 import argparse
 
 

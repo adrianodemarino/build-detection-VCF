@@ -19,8 +19,10 @@ python3 build_detection_VCF.py <file_name.vcf.gz>
 
 # Output
 
-```python
-return 'Genome build: hg19/GRCh37' for build 37
-return 'Genome build: hg38/GRCh38' for build 38
-return 0 for 'error' or 'no detection'
-```
+The script return:
+
+|Message|Genome Build|
+|Genome build: hg19/GRCh37|build 37|
+|Genome build: hg38/GRCh38|build 38|
+|0|error or no detection|
+
