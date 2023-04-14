@@ -1,7 +1,6 @@
 # Build Detection VCF/BCF
 
-Python script to detect genomic build from a VCF/BCF file. 
-Use the coordinates of common variants to identify the build / assembly of a VCF/BCF file that is being loaded. Upload WGS or VCF from chip array data.
+This Python script can identify the genomic build or assembly of a VCF/BCF file by utilizing the coordinates of commonly occurring variants.
 
 ## Dependencies 
 ```python
